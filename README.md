@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Christina 👋
 
-<!--
-**Tina-23/Tina-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year Data Science undergraduate at the University of London (LSE).  
+📊 Strong foundation in statistics, analytics, and machine learning.  
+⚛️ Passionate about quantum computing — completed QWorld courses (QCourse 581-1, workshops).  
 
-Here are some ideas to get you started:
+## 🔬 Interests
+- Applying **Quantum Machine Learning (QML)** to finance (volatility modeling, portfolio optimization, risk classification).  
+- Exploring QML applications in **data science**.  
+- Building reproducible workflows that connect classical ML with quantum circuits.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Projects
+- **TSLA Volatility Regime Classification** – ML project exploring financial volatility regimes.
+- **Quantum Learning Repo** – documenting my journey through quantum computing courses, hackathons, and workshops.
+
+## 🌱 Goals
+- Build hands-on quantum ML projects.  
+- Apply for internships in quantum computing and data science.  
+- Create portfolio-ready guides and dashboards.  
+
+## 📫 Connect
+- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/christina-ravichandran-9558b93ab/))  
+- [Email](mailto:christinaravichandran@gmail.com)  
+
