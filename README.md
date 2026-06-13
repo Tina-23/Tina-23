@@ -9,7 +9,7 @@
 - Exploring QML applications in **data science**.  
 - Building reproducible workflows that connect classical ML with quantum circuits.  
 
-## 🔬 Current Projects
+## 🔬 Projects
 - **Flight-Data-Analysis-And-Diversion-Prediction-Project** – ML project for flight diversion and statistical modelling.
 - **Global-Retail-Business-Analysis-** – Business Anakysis report and dashboard for superstore data set.
 - **Quantum Learning Repo** – documenting my journey through quantum computing courses, hackathons, and workshops.
