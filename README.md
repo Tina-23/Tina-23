@@ -19,6 +19,6 @@
 - Create portfolio-ready guides and dashboards.  
 
 ## 📫 Connect
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/christina-ravichandran-9558b93ab/))  
+- [LinkedIn](https://www.linkedin.com/in/christina-ravichandran-9558b93ab/) 
 - [Email](mailto:christinaravichandran@gmail.com)  
 
